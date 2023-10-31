@@ -13,8 +13,8 @@ public class MyCalculator {
 
 	public static void main(String[] args) {
 		MyCalculator cal = new MyCalculator();
-		System.out.println("sum is : "+ cal.sum(20, 10));
-		System.out.println("diff is : "+ cal.diff(20, 10));
+		System.out.println("sum is : "+ cal.sum(200, 10));
+		System.out.println("diff is : "+ cal.diff(250, 10));
 		
 
 				
